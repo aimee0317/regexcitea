@@ -26,7 +26,7 @@ You can install the development version of regexcite from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("jennybc/regexcite")
+devtools::install_github("aimee0317/regexcitea")
 ```
 
 ## Usage
